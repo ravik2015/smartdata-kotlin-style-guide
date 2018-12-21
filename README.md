@@ -6,9 +6,9 @@ Our overarching goals are __conciseness__, __readability__ and __simplicity__.
 
 You should also check out our other style guides:
 
-* [Swift](https://github.com/raywenderlich/swift-style-guide)
-* [Objective-C](https://github.com/raywenderlich/objective-c-style-guide)
-* [Java](https://github.com/raywenderlich/java-style-guide)
+* [Swift](https://github.com/ravik2015/smartdata-kotlin-style-guide/blob/master/swift-style-guide.md)
+* [Objective-C](https://github.com/ravik2015/smartdata-kotlin-style-guide/blob/master/objective-c-style-guide.md)
+* [Java](https://github.com/ravik2015/smartdata-kotlin-style-guide/blob/master/java-style-guide.md)
 
 ## Inspiration
 
