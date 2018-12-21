@@ -19,8 +19,6 @@ This style-guide is somewhat of a mash-up between the existing Kotlin language s
 - The [Android contributors style guide](https://source.android.com/source/code-style.html)
 - The [Google Java Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html).
 
-Alterations to support additional readability in tutorials were inspired by the [Smartdata Swift style guide](https://github.com/ravik2015/smartdata-kotlin-style-guide/blob/master/swift-style-guide.md).
-
 ## Android Studio Coding Style
 
 It is possible to get Android Studio to adhere to these style guidelines, via a rather complex sequence of menus. To make it easier, we've provided a coding style that can be imported into Android Studio.
